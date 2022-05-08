@@ -1,0 +1,1 @@
+{"name":"Local: hash","url":"d:\\compi\\hash.cpp","tests":[{"id":1645022942869,"input":"100 10\n4 14 15 18 29 32 36 82 95 95","output":"2\n7 3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\compi\\hash.cpp","group":"local","local":true}
